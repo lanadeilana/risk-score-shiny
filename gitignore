@@ -1,0 +1,10 @@
+# Dados confidenciais — não incluídos no repositório
+*.csv
+*.xlsx
+*.xls
+data/
+
+# Arquivos de ambiente R
+.Rhistory
+.RData
+.Rproj.user/
