@@ -15,7 +15,7 @@ O app calcula um score de risco por usuário com base em features comportamentai
 
 1. Clone o repositório
 2. Adicione os arquivos de dados na mesma pasta (não incluídos por confidencialidade)
-3. Abra `app_ajustado_VF.R` no RStudio e clique em **Run App**
+3. Abra `app_risk-score-shiny.R` no RStudio e clique em **Run App**
 
 ## Dependências
 
