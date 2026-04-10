@@ -1,6 +1,6 @@
 # Risk Score — Shiny App
 
-Aplicação Shiny para scoring de risco de abandono em plataformas educacionais, desenvolvida como projeto final de pós-graduação em Data Science.
+Aplicação Shiny para scoring de risco de abandono em plataformas educacionais, desenvolvida como projeto final do 3° tri da pós-graduação Programa Avançado em Data Science do Insper.
 
 ## Sobre
 
